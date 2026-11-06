@@ -1,0 +1,3 @@
+# El panel no es contenido: es la puerta de servicio.
+User-agent: *
+Disallow: /admin/

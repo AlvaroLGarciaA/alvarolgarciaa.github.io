@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- El cubo isometrico de la marca, el mismo dibujo que
+       CuboMarca.astro: tres caras con distinto valor para que se
+       lea como volumen y no como un hexagono. -->
+  <rect width="64" height="64" rx="10" fill="#080304"/>
+  <g transform="translate(9.5 6.5) scale(1.87)">
+    <polygon points="12,1.5 22.5,7.5 12,13.5 1.5,7.5" fill="#e01b12"/>
+    <polygon points="22.5,7.5 22.5,19.5 12,25.5 12,13.5" fill="#8d110b"/>
+    <polygon points="1.5,7.5 12,13.5 12,25.5 1.5,19.5" fill="#4d0906"/>
+    <g fill="none" stroke="#ff5a45" stroke-width="1.1" stroke-linejoin="round">
+      <polygon points="12,1.5 22.5,7.5 22.5,19.5 12,25.5 1.5,19.5 1.5,7.5"/>
+      <polyline points="1.5,7.5 12,13.5 22.5,7.5"/>
+      <polyline points="12,13.5 12,25.5"/>
+    </g>
+  </g>
+</svg>

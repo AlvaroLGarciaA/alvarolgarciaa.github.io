@@ -1,0 +1,30 @@
+Copyright (c) 2026 Álvaro Leonardo García Arroyo. Todos los derechos reservados.
+All rights reserved.
+
+Este repositorio contiene el código fuente, el diseño, los textos y las
+fotografías del sitio personal de Álvaro Leonardo García Arroyo
+(https://alvarolgarciaa.github.io/).
+
+NO se concede ninguna licencia de uso, copia, modificación, distribución ni
+creación de obras derivadas sobre este material, ni total ni parcialmente,
+salvo autorización previa y por escrito del titular.
+
+La ausencia de una licencia abierta es deliberada: bajo el Convenio de Berna y
+el Decreto Legislativo 822 (Ley sobre el Derecho de Autor del Perú), la obra
+queda protegida desde el momento de su creación, sin necesidad de registro, y
+todos los derechos no concedidos expresamente quedan reservados.
+
+Quedan excluidas de lo anterior las obras de terceros incorporadas al sitio,
+que conservan sus propias licencias:
+
+  - Tipografías Big Shoulders, Geist Mono, Gloock, Instrument Sans, Silkscreen,
+    Boldonse, Erica One, Smooch Sans, Tektur, Pixelify Sans y Young Serif,
+    distribuidas bajo la SIL Open Font License 1.1. El texto de cada licencia
+    acompaña a la fuente correspondiente en static/v2/fonts/.
+
+  - El tema y los componentes de Hugo empleados, bajo sus respectivas licencias.
+
+Las fotografías incluidas son obra del titular y no se licencian para uso de
+terceros bajo ninguna circunstancia.
+
+Contacto para solicitudes de uso: alvarolgarciaar@gmail.com

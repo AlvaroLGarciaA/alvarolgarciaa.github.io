@@ -1,0 +1,25 @@
+<!--
+  Marca de Brandwatch, solo el hexágono (sin el texto).
+
+  De dónde sale: el logotipo oficial publicado en brandwatch.com.
+  Se extrajeron los seis trazos de color del símbolo y se dejó
+  fuera el resto. No lleva scripts ni referencias externas: es
+  geometría y nada más.
+
+  Por qué está aquí: identifica una certificación que Álvaro
+  obtuvo de verdad. Es uso nominativo de una marca ajena —la
+  misma función que cumple en un perfil de LinkedIn—, no una
+  apropiación. Brandwatch conserva todos sus derechos sobre ella.
+
+  La lámina del certificado que hay en el repositorio Images está
+  recortada por la izquierda y el hexágono sale partido, así que
+  no servía para recortarlo de ahí como se hizo con los otros tres.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 87" role="img" aria-label="Brandwatch">
+  <path fill="#57B7DD" d="M0 26.3151V49.0856L26.6109 61.6366L53.8249 33.0039L35.9822 0.493896C35.4069 0.688409 34.8458 0.938805 34.3087 1.24769L4.68086 18.2547C1.7844 19.917 0 22.9897 0 26.3151"/>
+  <path fill="#F99132" d="M26.6099 61.6359L58.6962 76.7697L73.2573 68.4113L53.8238 33.0032L26.6099 61.6359Z"/>
+  <path fill="#A98BBC" d="M69.7691 16.2281L43.6702 1.24675C41.3114 -0.107467 38.5067 -0.358297 35.9824 0.493398L53.8251 33.0034L69.7691 16.2281Z"/>
+  <path fill="#FF6D56" d="M73.2587 68.4113L73.2981 68.3883C76.1945 66.7256 77.9789 63.6533 77.9789 60.3284V26.3143C77.9789 22.989 76.1945 19.9166 73.2981 18.254L69.7696 16.2283L53.8252 33.0035L73.2587 68.4113Z"/>
+  <path fill="#8AC539" d="M0 49.0845V60.3281C0 63.653 1.7844 66.7257 4.68086 68.3884L14.7171 74.1493L26.6109 61.6359L0 49.0845Z"/>
+  <path fill="#FFBE0A" d="M14.7163 74.1498L34.3079 85.3959C37.2044 87.0582 40.7727 87.0582 43.6692 85.3959L58.6964 76.7698L26.6101 61.636L14.7163 74.1498Z"/>
+</svg>
